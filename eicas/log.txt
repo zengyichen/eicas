@@ -1,0 +1,14 @@
+Logging started at [2024-12-27-19:32:56.540].
+[2024-12-27-19:32:58.933] EGT single sensor failure.
+[2024-12-27-19:32:58.933] EGT single engine failure.
+[2024-12-27-19:33:03.933] EGT single sensor failure.
+[2024-12-27-19:33:03.933] EGT single engine failure.
+[2024-12-27-19:33:08.933] EGT single sensor failure.
+[2024-12-27-19:33:08.933] EGT single engine failure.
+[2024-12-27-19:33:13.933] EGT single sensor failure.
+[2024-12-27-19:33:13.933] EGT single engine failure.
+[2024-12-27-19:33:18.933] EGT single sensor failure.
+[2024-12-27-19:33:18.933] EGT single engine failure.
+[2024-12-27-19:33:22.923] (RUN) Overtemp warning.
+[2024-12-27-19:33:26.279] Overspeed warning.
+[2024-12-27-19:33:26.279] (RUN) Overtemp failure. STOP
